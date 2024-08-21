@@ -25,7 +25,7 @@ RegisterNumber: 212222230050
 
 ```
 
-```python
+```PYTHON
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -58,7 +58,7 @@ print(Y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color='red')
 plt.show() 
-python```
+```
 
 ## Output:
 
