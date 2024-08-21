@@ -61,8 +61,8 @@ plt.show()
 python```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d67c19ba-9e9a-41e6-994e-cb35909c4726)
 
+![image](https://github.com/user-attachments/assets/78cd176a-018b-4256-9733-774a119c2979)
 
 
 ## Result:
